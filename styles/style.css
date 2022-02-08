@@ -12,7 +12,7 @@ body {
 }
 
 .subject-menu li {
-  margin-top: 20px;
+  margin-top: 200px;
   font-size: 1.4rem;
 }
 
@@ -31,6 +31,18 @@ body {
 
 .czech-section {
   margin-left: 1.25rem;
+}
+
+.inside-ol{
+  display: flex;
+  align-items: center;
+}
+.inside-ol p{
+  margin-left: 12px;
+}
+
+.done{
+  font-weight: bold;
 }
 
 .math-main {
